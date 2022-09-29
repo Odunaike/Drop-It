@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Drop It</string>
+    <string name="intro">With the rapid growing tech sector, millions of\nideas are birthed a day. We give you the platform\nto connect with millions of users and share ideas\nto expand our digital world.</string>
+    <string name="forgot">Please enter your email. You will receive\na link to create a new password via email.</string>
+</resources>

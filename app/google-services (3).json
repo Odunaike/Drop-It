@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1063740060247",
+    "project_id": "drop-it-5059d",
+    "storage_bucket": "drop-it-5059d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063740060247:android:ddddd4461383ed92266912",
+        "android_client_info": {
+          "package_name": "com.practice.dropit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063740060247-ql4m17t6ukifff4snhrv1ledpiqugt4b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.practice.dropit",
+            "certificate_hash": "18f24b8dbd578070fa599d0292a326030bda626b"
+          }
+        },
+        {
+          "client_id": "1063740060247-k2r5uc03vq3ld3cabdru4f29fc584i31.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2BawHV1J-XU-uSMqyMv2VPOyX3rKV1g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063740060247-k2r5uc03vq3ld3cabdru4f29fc584i31.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
